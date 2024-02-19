@@ -19,7 +19,9 @@
   },
   "dependencies": {
     "cookie-parser": "^1.4.6",
+    "express-session": "^1.18.0",
     "mongoose": "^6.12.1",
-    "mongoose-currency": "^0.2.0"
+    "mongoose-currency": "^0.2.0",
+    "session-file-store": "^1.5.0"
   }
 }
